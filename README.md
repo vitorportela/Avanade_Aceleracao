@@ -11,7 +11,7 @@ O projeto se resume em duas telas:
 * Uma tela de perfis criada com ajuda do ngFor ao qual tem o trabalho de multiplicar os componentes.
 
 
-## ✔ Foram criados 7 componentes:
+### ✔ Foram criados 7 componentes:
 
 #### Tres componentes representam telas:
 * home (snack-bars);
