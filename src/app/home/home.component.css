@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+  }
+  .footer,
+  .push {
+    height: 50px;
+  }
+
+  .frame {
+    height: 500px;      /* equals max image height */
+    width: 100%;
+    white-space: nowrap;    
+    text-align: center; margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+img {
+    padding-left: 15%;
+    vertical-align: middle;
+    max-width: 100%;
+}
