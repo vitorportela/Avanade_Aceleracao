@@ -6,21 +6,24 @@ Projeto desenvolvido em Angular com finalidade de demonstrar os conhecimentos ad
 
 O projeto se resume em duas telas:
 
--Uma Home com o logo da Avanade onde ao clicarmos surge uma snackbar.
+*Uma Home com o logo da Avanade onde ao clicarmos surge uma snackbar.
 
--Uma tela de perfis criada com ajuda do ngFor ao qual tem o trabalho de multiplicar os componentes.
+*Uma tela de perfis criada com ajuda do ngFor ao qual tem o trabalho de multiplicar os componentes.
 
-✔ Foram criados 7 componentes:
+
+## ✔ Foram criados 7 componentes:
+
 Tres componentes representam telas:
-* home (snack-bars)
-* perfil
-* not-found
+* home (snack-bars);
+* perfil;
+* not-found.
 
-✔ Componente nas telas:
-* header (toolbar e icons)
-* footer
-* imagem (cards)
-* perfil-list (realiza um ngFor, property Binding e interpolação)
+Componentes das telas:
+* header (toolbar e icons);
+* footer;
+* imagem (cards);
+* perfil-list (realiza um ngFor, property Binding e interpolação).
+
 
 ## 🚀 Recursos Utilizados do material.angular:
 
