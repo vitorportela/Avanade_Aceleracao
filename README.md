@@ -1,27 +1,30 @@
-# Avanade
+# ❤ AVANADE - Aceleração Global Dev #2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+Projeto desenvolvido em Angular com finalidade de demonstrar os conhecimentos adquiridos durante o processo.
 
-## Development server
+##💡 Sobre:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+O projeto se resume em duas telas:
 
-## Code scaffolding
+-Uma Home com o logo da Avanade onde ao clicarmos surge uma snackbar.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-Uma tela de perfis criada com ajuda do ngFor ao qual tem o trabalho de multiplicar os componentes.
 
-## Build
+✔ Foram criados 7 componentes:
+Tres componentes representam telas:
+* home (snack-bars)
+* perfil
+* not-found
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+✔ Componente nas telas:
+* header (toolbar e icons)
+* footer
+* imagem (cards)
+* perfil-list (realiza um ngFor, property Binding e interpolação)
 
-## Running unit tests
+## 🚀 Recursos Utilizados do material.angular:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* **[Toolbars](https://material.angular.io/components/toolbar/overview)**
+* **[Icons](https://material.angular.io/components/icon/overview)**
+* **[Snack-bars](https://material.angular.io/components/snack-bar/overview)**
+* **[Cards](https://material.angular.io/components/card/overview)**
